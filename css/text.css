@@ -1,0 +1,72 @@
+h1 { font-weight:bold; font-size:18px; alignment-baseline: central; }
+.Headingphp { font-family:Snell Roundhand; font-size:42px; color: white; }
+.Headingphp:hover { font-family:Snell Roundhand; font-size:42px; color: white; text-shadow: 0 0 0.5em white; }
+.Subheadingphp { font-family:Arial,Helvetica,sans-serif; color: white; font-size:12px; }
+
+img {opacity:1;
+-moz-transition: opacity 1s;
+-webkit-transition: opacity .5s;
+-o-transition: opacity 1s;
+transition: opacity .5s;
+}​
+
+.hovermenuh ul{
+font: bold 13px Helvetica;
+background-color: black;
+margin-left: 0;
+height: 100%;
+}
+.hovermenuh ul li{
+list-style: none;
+display: inline;
+}
+.hovermenuh ul li a{
+padding: 0px 1.3em;
+text-decoration: none;
+float: left;
+color: grey;
+}
+.hovermenuh ul li a:hover{
+color: black;
+text-shadow: 0 0 0.2em black;
+}
+
+.hovermenub ul{
+font: bold 13px Helvetica;
+margin-left: 0;
+height: 100%;
+}
+.hovermenub ul li{
+list-style: none;
+display: inline;
+}
+.hovermenub ul li a{
+padding: 0px 2.1em;
+text-decoration: none;
+float: left;
+color: grey;
+}
+.hovermenub ul li a:hover{
+color: white;
+text-shadow: 0 0 0.2em white;
+}
+
+.hovermenuv ul{
+font: 14px Helvetica;
+margin-left: -40px;
+height: 100%;
+}
+.hovermenuv ul li{
+display: block;
+}
+.hovermenuv ul li a{
+padding: 0px .1em;
+text-decoration: none;
+float: left;
+color: blue;
+}
+.hovermenuv ul li a:hover{
+color: grey;
+text-decoration: underline;
+text-shadow: 0 0 0.2em grey;
+}
